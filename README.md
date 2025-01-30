@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Doina</h1>
-<h3 align="center">💻 Aspiring Computer Engineer</h3>
+<h3 align="center">💻 Aspiring Software Engineer</h3>
 
 - 🌱 I’m currently learning **Web Technologies, Systems Administration and Software Engineering**
 
